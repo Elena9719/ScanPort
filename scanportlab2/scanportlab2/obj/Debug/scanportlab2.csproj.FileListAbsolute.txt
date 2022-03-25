@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\bin\Debug\scanportlab2.exe.config
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\bin\Debug\scanportlab2.exe
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\bin\Debug\scanportlab2.pdb
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\obj\Debug\scanportlab2.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\obj\Debug\scanportlab2.Form1.resources
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\obj\Debug\scanportlab2.Properties.Resources.resources
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\obj\Debug\scanportlab2.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\obj\Debug\scanportlab2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\obj\Debug\scanportlab2.exe
+C:\Users\Админ\source\repos\scanportlab2\scanportlab2\obj\Debug\scanportlab2.pdb
